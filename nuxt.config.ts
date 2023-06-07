@@ -3,6 +3,7 @@ export default defineNuxtConfig({
 	modules: [
 		`@nuxtjs/apollo`,
 	],	
+	
 	apollo: {
 		clients: {
       default: {
